@@ -1,0 +1,51 @@
+input[type=text]{
+    background-color:black;
+    color: white;
+}
+textarea {
+    width:250;
+    height:100;
+}
+.warna {
+    background-color: yellow;
+}
+.warna2 {
+    background-color:violet;
+}
+.pertama{
+    background-color: red;
+    width:60%;
+    height:auto;
+    align-items:center;
+    text-align:left;
+    margin:auto;
+    margin-top:5px;
+    padding-bottom:5px;
+}
+nav ul{
+    padding:1px;
+    margin: 2px;
+    overflow:hidden;
+    background-color:orange;
+    border:1px solid red;
+}
+nav li{
+    display:inline-block;
+    color:whitesmoke;
+    text-align:center;
+    padding:10px 15px;
+}
+.kembali{
+    text-decoration:none;
+}
+footer {
+    clear:both;
+    width:98.8%;
+    height:auto;
+    text-align:center;
+    margin:5px 5px 5px 5px;
+    border-radius:3px;
+    border-bottom:2px solid gainsboro;
+    padding-top:15px;
+    padding-bottom:15px;   
+}
