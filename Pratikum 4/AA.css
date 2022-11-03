@@ -1,0 +1,85 @@
+body { 
+margin:0; padding:0;
+background-color: brown;
+}
+
+.wrap {
+    width:980px;
+    margin:0 auto;
+}
+.header { 
+    height:140px;
+    margin-bottom:15px;
+    background-color:burlywood;
+}
+.content {
+    width:690px;
+    height:450px;
+    background-color:burlywood;
+    float:right;
+}
+.sidebar {
+    width:275px;
+    height:450px;
+    background-color :burlywood;
+    float:left;
+}
+.footer {
+    height:70px;
+    margin-top:15px;
+    background-color:#000000;
+}
+.clear {
+    clear:both;
+}
+.container {
+    background-color : red;
+    margin : auto ;
+    width : 500px;
+    padding : 5px;
+}
+.gambara {
+    height : 80px;
+    width : 950px;
+    float : left;
+    margin : 10px;
+}
+.gambar {
+    height : 150px;
+    width : 150px;
+    float : left;
+    margin : 5px;
+}
+
+nav.menu ul {
+	overflow:auto;
+	color:#fff;
+	list-style: none;
+	
+	padding:0;
+	width: 600px;
+	margin:auto;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-left:30px;
+	background: #e28b08;
+
+}
+nav.menu ul li {
+	margin: 10px;
+	float:left;
+    
+}
+nav.menu ul a {
+	padding: 4px;
+	display:block;
+	font: weight 80px;;
+	font-size: 16px;
+	color:#fff;
+	text-transform: uppercase;
+	transition: all 0.5s ease;
+	
+}
+nav.menu ul a:hover {
+	background:#b11414;
+}
