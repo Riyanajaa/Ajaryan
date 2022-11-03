@@ -1,2 +1,2 @@
 # Ajaryan
-Nope
+Pratikum
